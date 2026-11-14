@@ -1,0 +1,7 @@
+[2026-11-02 14:28:24] Registered Harshini as user
+[2026-11-02 14:28:51] Login successful: Harshini
+[2026-11-02 14:29:24] Password changed: Harshini
+[2026-11-14 14:41:48] Registered Sammyyy_07 as user
+[2026-11-14 14:43:02] Account locked: Sammyyy_07
+[2026-11-14 21:51:22] Registered Charishma_62 as user
+[2026-11-14 21:51:30] Login successful: Charishma_62
